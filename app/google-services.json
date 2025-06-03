@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1070506849970",
+    "project_id": "crossplat-w12-lec",
+    "storage_bucket": "crossplat-w12-lec.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070506849970:android:9fbec3ea21a8c922293bab",
+        "android_client_info": {
+          "package_name": "com.example.myapplicationw10"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeHT6J_b413PUxq9pLMI1J-a61gwSbi5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070506849970:android:cb2ccb9f13561b34293bab",
+        "android_client_info": {
+          "package_name": "com.umn.crossplatw12lec"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeHT6J_b413PUxq9pLMI1J-a61gwSbi5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
